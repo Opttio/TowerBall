@@ -1,0 +1,34 @@
+{
+    "name": "MyInputSystem",
+    "maps": [
+        {
+            "name": "Character",
+            "id": "19554c89-58cf-492b-a293-0129e99b5085",
+            "actions": [
+                {
+                    "name": "Fire",
+                    "type": "Button",
+                    "id": "866fb939-a34d-4c55-bbe4-20a7ea6075b9",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "478a769d-8a74-4461-b8ad-163b030f624c",
+                    "path": "<Touchscreen>/Press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Fire",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
